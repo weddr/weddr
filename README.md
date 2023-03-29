@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**weddr/weddr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on -> C#,PHP,MYSQL,DARTLANG,MSSQL,FIREBASE
+My name is Uğurkan
+I love learning how to code, I am more interested in banking and messaging 
+I’m currently working on -> C#,PHP,MYSQL,DARTLANG,MSSQL,FIREBASE
