@@ -3,8 +3,8 @@ My name is Uğurkan
 
 I love learning how to code, I am more interested in banking and messaging 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=radical)
 
 
 Programming languages I use -> 
