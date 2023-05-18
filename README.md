@@ -2,8 +2,8 @@
 My name is Uğurkan
 
 I love learning how to code, I am more interested in banking and messaging 
-https://www.codewars.com/users/weddr/badges/smal
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=radical)
+
+(https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=radical)
 
 
 Programming languages I use -> 
