@@ -4,6 +4,7 @@ My name is Uğurkan
 I love learning how to code, I am more interested in banking and messaging 
 
 ![weddr's GitHub stats](https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=radical)
+
 ![small](https://github.com/weddr/weddr/assets/85494297/1e044c39-6766-42cc-a34a-f6ea0e4af799)
 
 
