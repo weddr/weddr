@@ -3,9 +3,9 @@ My name is Uğurkan
 
 I love learning how to code, I am more interested in banking and messaging 
 
-[Github stats 2](https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=weddr&show_icons=true&theme=radical)
 
-(https://www.codewars.com/users/weddr/badges/larg)
+https://www.codewars.com/users/weddr/badges/larg
 
 Programming languages I use -> 
 
